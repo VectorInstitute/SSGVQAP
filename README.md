@@ -21,7 +21,7 @@ TRAINING
 # CITATION
 
 
-# ACKNOLEDGEMENT
+# ACKNOWLEDGEMENT
 The authors would like to thank all the organizers of the COVID-19 Open Research Dataset Kaggle Challenge. We would like to thank Vector Institute
 for making this collaboration possible and providing academic infrastructure and computing support during all phases of this work. We would also
 like to thank Richard Pito from Thomson Reuters for his invaluable feedback and support throughout this project. Last but not least, special thanks to
