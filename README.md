@@ -23,7 +23,7 @@ Notebooks for the active learning experiments are available [here](https://githu
 
 # License
 
-# Correcponding Author: Rohan Bhambhoria <r.bhambhoria@queensu.ca>
+### Correcponding Author: Rohan Bhambhoria <r.bhambhoria@queensu.ca>
 
 # Citation
 
