@@ -10,11 +10,14 @@ Finally, we demonstrate some experiments showcasing the effectiveness of leverag
 FIGURE 1: Generation of the Silver QA Data and the Process of Obtaining Gold Data using Active Learning
 
 # Quick Links
-DATA
 
-SETUP
+### SETUP
 
-TRAINING
+Pre-processing of the [CORD-19 dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) and building the rule-based QA can be done from the following notebook: [rulebased_model/Preprocess-and-RuleBased.ipynb](rulebased_model/Preprocess-and-RuleBased.ipynb)
+
+Scripts for the seq2seq (generated QA) model can be accessed from [here](https://github.com/VectorInstitute/SSGVQAP/tree/main/seq2seq_model)
+
+Notebooks for the active learning experiments are available [here](https://github.com/VectorInstitute/SSGVQAP/tree/main/Active_Learning_Experiments)
 
 # License
 
