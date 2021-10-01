@@ -11,6 +11,8 @@ FIGURE 1: Generation of the Silver QA Data and the Process of Obtaining Gold Dat
 
 # Quick Links
 
+For details about our dataset and experimental setup, please read our paper titled: [A Smart System to Generate and Validate Question Answer Pairs for COVID-19 Literature](https://aclanthology.org/2020.sdp-1.4/)
+
 ### SETUP
 
 Pre-processing of the [CORD-19 dataset](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) and building the rule-based QA can be done from the following notebook: [rulebased_model/Preprocess-and-RuleBased.ipynb](rulebased_model/Preprocess-and-RuleBased.ipynb)
